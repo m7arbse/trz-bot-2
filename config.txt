@@ -1,0 +1,6 @@
+owner=472221987151020032
+prefix=t
+game=Start tplay
+stayinchannel=true
+songinstatus=false
+token=NTg5ODMxOTA4MDI4OTczMjAx.XQZazw.hjwoBWePH75eBXHDq9cPFKgod0g
