@@ -1,5 +1,5 @@
 owner=472221987151020032
-prefix=t
+prefix=r
 game=Start tplay
 stayinchannel=true
 songinstatus=false
