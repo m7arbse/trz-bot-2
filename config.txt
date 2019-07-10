@@ -1,6 +1,0 @@
-owner=472221987151020032
-prefix=r
-game=Start rplay
-stayinchannel=true
-songinstatus=false
-token=NTg5ODQwMTE1NzM2NTEwNDc0.XQZhoA.8jZhPJm5NSd0P5XDUcSUhCeYNwI
